@@ -1,4 +1,7 @@
 "NEW addition" 
 "One" 
+<<<<<<< HEAD
 "Two" 
 "Three" 
+=======
+>>>>>>> e15e583 (1 commit)
